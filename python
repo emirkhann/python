@@ -1,0 +1,22 @@
+# name = input("Your name: ")
+# print("Hello, ", name)  
+
+# day = int(input('день рождение: '))
+# month = int(input('месяц рождения: '))
+# year = int(input('год рождения: '))
+
+# summa = day + month + year
+# print(summa)
+
+# summa = 600
+# sale = int(print('введите скидку: '))
+
+# result = summa - (summa * sale / 100)
+# print('Оставшаяся сумма составляет', result, '$')
+
+
+# name = "Tom"  
+# print(name)
+
+isMarried = False
+print(isMarried)
